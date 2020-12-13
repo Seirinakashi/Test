@@ -8,23 +8,6 @@ print('Your products are : ' + products)
 
 print(reactants)
 print(products)
-# (S)(O)4+(H)2   --->  S- 1   O - 4   H - 2   
-# Na + HCl --> NaCl + H2
-
-#[Na1 , 2H1Cl1] -->  [Na1Cl1, H2] 
-"""
-
-if nP > nR:
-    multiply reac side
-eg:  for x in reac:
-        if _ in x:
-           (prodDict[_]//reDict[_])*x 
-if nR > nP:
-    multiply prod side
- eg:  for x in prod:
-        if _ in x:
-           (reDict[_]//prodDict[_])*x 
-"""
 
 def elemList (reOrProd):
     lst = []
